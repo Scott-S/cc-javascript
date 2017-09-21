@@ -1,0 +1,29 @@
+{
+  "name": "cc-javascript",
+  "version": "1.0.0",
+  "description": "Nodejs API Endpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scott-S/cc-javascript.git"
+  },
+  "author": "Scott Scialabba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scott-S/cc-javascript/issues"
+  },
+  "homepage": "https://github.com/Scott-S/cc-javascript#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "request": "^2.82.0",
+    "supertest": "^3.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^1.21.5"
+  }
+}

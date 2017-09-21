@@ -1,1 +1,3 @@
-# cc-javascript
+## cc-javascript
+
+### API Endpoint returning JSON

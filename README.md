@@ -1,3 +1,3 @@
-## cc-javascript
+### CC Node.js Scott Scialabba
 
-### API Endpoint returning JSON
+#### JSON API Endpoint
